@@ -1,6 +1,6 @@
 # <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
 
-💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
+Find your new love 💌 on Datify 💜 - easy, free and unlimited.
 
 
 
