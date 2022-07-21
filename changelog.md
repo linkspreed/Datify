@@ -12,7 +12,6 @@
  - ADDED Ngenius payment method.
  - ADDED currency system.
  - ADDED FAQs page.
- - ADDED HTML editor to Admin Panel -> Pages -> Manage Pages.
  - ADDED refund policy page.
  - ADDED moderators system.
  - ADDED linkedin social login.
@@ -22,7 +21,6 @@
  - ADDED import photos from Instagram.
  - ADDED new APIs.
  - ADDED the ability to filter by country for PRO or free memebers.
- - ADDED new docs: https://docs.quickdatescript.com/.
  - FIXED 30+ reported bugs.
  - IMPROVED stability & speed.
 
@@ -36,17 +34,12 @@
  - ADDED QQ, WeChat, Discord and Mailru social login.
  - ADDED developer system, users can now create application and use login with system.
  - ADDED MessageBird, BulkSMS, Infobip, Msg91 SMS providers.
- - ADDED Invitation system for users and admin.
- - ADDED auto like system, admin can choose an account which get liked by every new user.
  - ADDED new APIs.
- - IMPROVED admin panel english and desgin.
  - FIXED 30+ reported bugs.
  - IMPROVED stability & speed.
 
 # v1.4.2
  - ADDED +4 payments methods.
- - ADDED new admin panel, v2.
- - ADDED notifications system in admin panel.
  - ADDED new theme [love].
  - ADDED new APIs.
  - FIXED 40+ reported bugs.
@@ -54,8 +47,6 @@
 
 # v1.4.1
  - ADDED gifts page, you can view the gifts you received from other users.
- - ADDED ability to add, edit, remove countries from the admin panel.
- - ADDED ability to pay admin to unlock private photos (enable/disable).
  - ADDED only pro users could upload videos and pay to unlock. (enable/disable)
  - ADDED credit system with daily login, earn credits by logining in in daily.
  - ADDED ability to submit verification docs on "start up page" on sign up (enable/disable)
@@ -66,15 +57,11 @@
 
 # v1.4
  - ADDED ability to upload videos + FFMPEG.
- - ADDED moderator user (admin could set what pages a specific moderator could access in the admin).
  - ADDED ability to lock gender after someone selects during sign up.
  - ADDED friend system, user can add friends / accept decline (enable / disable.)
  - ADDED blacklist system, block user by email, username and IP.
  - ADDED affiliate system, users can earn money by refrerring users.
  - ADDED users on home page (enable/disable).
- - ADDED ability to send mock emails to user who didn't login for week/month/year/ from admin panel.
- - ADDED ability to limit number of max photo a user can upload from admin panel (unlimited for pro user)
- - ADDED ability to review photos and videos by admin with (enable/disable)
  - FIXED 20+ reported bugs.
  - IMPROVED stability & speed.
 
@@ -91,7 +78,6 @@
  - ADDED the ability to make the site fully free for a spasefic gender.
  - ADDED the ability to make site completely free.
  - ADDED success stories system.
- - ADDED blog system (only admin can create blogs).
  - ADDED hot or not system.
  - ADDED image webcam verification system.
  - ADDED spam warning, user won't be able to send messages for 24 hours if they were marked as spam.
@@ -104,7 +90,6 @@
  - FIXED few reported bugs.
 
 # v1.2.1
- - ADDED request limits for user activations in admin panel > general settings.
  - FIXED few reported bugs.
 
 # v1.2
@@ -123,7 +108,6 @@
  - FIXED few reported bugs.
 
 # v1.1.2
- - ADDED ads slots, now admin can add ads on 4 slots on the site.
  - IMPROVED site speed.
  - FIXED few reported bugs.
 
@@ -135,7 +119,6 @@
  - ADDED user now can see himself in pro sidebar if he boosted.
  - ADDED daily like limit, user can't like more than X users per day.
  - ADDED bank payments system, user can pay via bank local payments.
- - ADDED the ability to manage genders from admin panel.
  - ADDED cookie law bar.
  - ADDED the ability for pro user to change his country, and relocate.
  - ADDED SMS gateaway payment using: paysera.com
