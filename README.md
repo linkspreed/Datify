@@ -28,8 +28,8 @@ Find your new love 💌 on Datify 💜 - easy, free and unlimited.
 
 ## More
  
-Streamvalley is **free**, **real-time** and with **unlimited** resources 
-for developers around the world.
+Datify is **free**, **real-time** and with **unlimited** resources 
+for users around the world.
 
 Our focus is on **usability** and **security** 
 for our developers, users and anyone who comes into contact with ([Linkspreed 🚀](https://www.linkspreed.com/)).
@@ -39,7 +39,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Streamvalley freely and use all features to an unlimited extent.
+ You can enjoy Datify freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
