@@ -1,11 +1,11 @@
-# <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
+# <img align="left" alt="Datify" width="100px" src="https://datify.cf/themes/todate/assets/img/icon.png" draggable="false" /> Datify ([Click to try 🚀](https://datify.cf/))
 
 Find your new love 💌 on Datify 💜 - easy, free and unlimited.
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Streamvalley/blob/main/changelog.md)** **Check out the full Streamvalley changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Streamvalley/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Streamvalley besides development**
+## **[Changelog 💜](https://github.com/linkspreed/Datify/blob/main/changelog.md)** **Check out the full Datify changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Datify/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Datify besides development**
 
 
 <div align="center">
