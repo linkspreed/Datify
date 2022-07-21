@@ -15,14 +15,15 @@ Find your new love 💌 on Datify 💜 - easy, free and unlimited.
 
 ## Features
 
- - **DASHBOARD** – Get an overview of your account and your tracked videos.
-
- - **STATS** – Get specific statistics & analytics reports for your content
- - **Chats**
- - **Upload Videos**
- - **Go Live**
- - **Import Videos**
- - **Post, Like and Comment**
+ - **Upload Images:** Upload any image from your device and share it online with other users
+ - **High Performance & Capability:** Datify can handle any amount of vidoes / images easily, with a very high performance and speed.
+ - **Linkspreed Integration:** With one click, user can login to your site using Linkspreed.
+ - **Like**: User can like users to find a match.
+ - **User Profile:** User can create his own profile and upload unlimted images.
+ - **SEO friendly:** SEO friendly links, and HTML code that Google will love!
+ - **Powerful UI:** Beautiful and modern design.
+ - **Free & Unlimited:** User can get top features for free.
+ - **Credit System:** User can earn credits to use them in messages, gifts, likes. etc
  - **AND SO MUCH MORE ...**
 
 
