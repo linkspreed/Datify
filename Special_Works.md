@@ -1,4 +1,7 @@
 # 20.08.2022
+  - Datify's update will only bring some improvements and bug fixes.
+
+# 20.08.2022
   - We are still working a bit on Datify as we plan to release a new update tomorrow, August 21, 2022.
 
 # 19.08.2022
