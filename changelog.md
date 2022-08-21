@@ -1,3 +1,13 @@
+# v1.6.3 21 Aug 2022
+ - FIXED broken images on find matches page if the user had videos posted.
+ - FIXED "index" showing on meta tags on home page.
+ - FIXED create article was not working
+
+# v1.6.2 21 Aug 2022
+ - FIXED character limit for terms page.
+ - FIXED "index" showing on home page.
+ - FIXED 500 PHP error when uploading stickers.
+
 # v1.6.1 20 Jul 2022
  - ADDED fluttewave payment method.
  - IMPROVED design in few sections.
