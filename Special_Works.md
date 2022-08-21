@@ -1,4 +1,8 @@
 # 21.08.2022
+  - Datify is successfully on version 1.6.3 🚀
+  - You can find the full change history on Github.📱
+
+# 21.08.2022
   - We are now launching Datify to version 1.6.3
   - The update process takes between 20 and 30 minutes.
 
