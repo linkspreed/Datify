@@ -1,3 +1,6 @@
+### 20.12.2022 (announcement Datify)
+- A major update, version 1.7.0 of **Datify** is in progress!
+
 # 21.08.2022
   - Datify is successfully on version 1.6.3 🚀
   - You can find the full change history on Github.📱
