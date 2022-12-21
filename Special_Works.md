@@ -1,4 +1,8 @@
 ### 21.12.2022 (announcement Datify)
+- The new design for **Datify** is here!
+- Have fun!
+
+### 21.12.2022 (announcement Datify)
 - **Datify** is running now completely on PHP 8.1!
 - 7.4 --> 8.1
 
