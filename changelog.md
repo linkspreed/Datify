@@ -1,3 +1,44 @@
+# v1.7 21 Dec 2022
+ - ADDED support for PHP 8.1.*
+ - ADDED the ability to disable a language.
+ - ADDED webp support.
+ - ADDED subscribe to newsletters on home page.
+ - ADDED the ability to set minimum withdrawal amount.
+ - ADDED new modern design for "love" theme.
+ - ADDED deny username system.
+ - ADDED BACKBLAZE cloud storage.
+ - ADDED developer mode.
+ - ADDED ffmpeg debuuger.
+ - ADDED flutterwave payment method.
+ - ADDED age restriction system.
+ - ADDED system status.
+ - ADDED Google recaptcha.
+ - ADDED withdrawal payment methods.
+ - UPDATED find matches system completely (backend).
+ - UPDATED all PHP libs.
+ - FIXED user can't change birthday from mobile.
+ - FIXED user can't change birthday from desktop.
+ - FIXED facebook and twitter links are not correct, they are reversed.
+ - FIXED email sent from server didn't support HTML code.
+ - FIXED some JS errros on console log.
+ - FIXED male and female selection in find match page were not diselecting.
+ - FIXED "Allowed E-mail Providers" was not working.
+ - FIXED Agora live and video calls.
+ - FIXED developer page is showing even if developer page is disabled.
+ - FIXED can't upload image to messages while S3 enabled.
+ - FIXED deleting users doesn't delete their data from same tables.
+ - FIXED image verfication issues.
+ - FIXED day/night mode switcher problems.
+ - FIXED SMS bugs, messagebird + msg91.
+ - FIXED social media links in footer are disabled but is still shown.
+ - FIXED login with VK + mail.ru
+ - FIXED some php files showing on google search results.
+ - FIXED "select box" custom fields not working.
+ - FIXED for free users, you can write a message to more than 1 user.
+ - FIXED private image is not working when using third party storage other than amazon.
+ - FIXED 10+ API issues.
+ - FIXED 20+ minor bugs.
+
 # v1.6.3 21 Aug 2022
  - FIXED broken images on find matches page if the user had videos posted.
  - FIXED "index" showing on meta tags on home page.
