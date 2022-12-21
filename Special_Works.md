@@ -1,4 +1,7 @@
 ### 21.12.2022 (announcement Datify)
+- The code is now ready for the launch of version 1.7.0 for **Datify**.
+
+### 21.12.2022 (announcement Datify)
 -  **Datify** gets a big update today - we are going to launch v1.7.0. 😍
 
 ### 20.12.2022 (announcement Datify)
