@@ -1,3 +1,6 @@
+### 12.06.2023 (announcement Datify)
+- 🚀 Big news! We've added Datify to our subdomain system 🎉 Don't worry, everything stays the same, but you'll notice we've changed our URL. Check it out at https://datify.cf! Have you used Datify before? What do you like/dislike about it? #datify #subdomains #techupdates 💻
+
 ### 21.12.2022 (announcement Datify)
 - **Datify** 1.7 is now finally available.  🚀🥳
 
